@@ -1,7 +1,4 @@
-# Computational-Social-Science-lab-Book-Review
-
-Data, data sources, project information : coming soon
-
+# Computational Social Science lab: BookReview
 Abstract: 
 
 Books are a great source of inspirations to people. Readers
@@ -16,6 +13,9 @@ explore growth and decline, sentiments, relation between
 review-rating and prediction of ratings from review for two
 specific genres i.e. Comics & Graphics and Mystery, Thriller
 & Crime. Our research contributes in understanding the
-dynamics of book reviews that can be useful for academic in-
-stitutions, writers, readers, online book stores, governments
+dynamics of book reviews that can be useful for academic 
+institutions, writers, readers, online book stores, governments
 organizations.
+
+
+Data, data sources, project information : coming soon
